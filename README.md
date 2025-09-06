@@ -35,7 +35,7 @@ I love taking projects from idea to production — designing the architecture, c
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasongreige&show_icons=true&hide_border=true&theme=transparent" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasongreige&show_icons=true&hide_border=true&theme=transparent" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongreige&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
